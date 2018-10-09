@@ -1,2 +1,2 @@
-# upper
-Sample riff Java Uppercase function
+# logger
+Sample riff Java Logger function
